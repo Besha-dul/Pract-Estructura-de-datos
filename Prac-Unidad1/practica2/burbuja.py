@@ -8,3 +8,5 @@ while swapped:
             lista[i],lista[i+1]=lista[i+1],lista[i]
             swapped = True
 print("Lista Ordenada: ", lista)
+
+#cambiando el signo < se realiza la lista de forma descendente :D
