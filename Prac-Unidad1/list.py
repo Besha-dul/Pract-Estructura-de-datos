@@ -5,6 +5,7 @@ print(lista[::-1])
     #print(x)
 
 
+
 #RECORRIDO DE LISTA 2
 #for i in range(len(lista)):
     #print(lista[i])

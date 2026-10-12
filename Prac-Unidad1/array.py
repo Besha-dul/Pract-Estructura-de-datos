@@ -11,3 +11,5 @@ print(frutas)     # Muestra: ['manzana', 'naraja', 'uva']
 # Agregar un elemento al final
 frutas.append("sandía")
 print(len(frutas)) # Muestra la cantidad de elementos: 4
+
+print(frutas.remove("pera"))
