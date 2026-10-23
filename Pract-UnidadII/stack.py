@@ -20,7 +20,7 @@ total_paginas=len(historial_navegacion)
 print("paginas guardadas", total_paginas)
 
 #Operacion vacia(EMPTY)
-sin_paginas=len(historial_navegacion)==¿'
+sin_paginas=len(historial_navegacion)
 print("¿El historial esta vacio", sin_paginas)
 
 #
